@@ -2,6 +2,12 @@
 
 - Date: `<date of writeup, YYYY-MM-DD format>`
 - Author: `<your CTFd username>` (feel free to add social media if you wish).
+- Category: `<category the challenge falls under>`
+- Points: `<number of points, if applicable`>
+
+## Challenge text
+
+The text of the challenge.
 
 ## Description
 

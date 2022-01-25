@@ -1,4 +1,4 @@
-# CHALLENGE NAME
+# Bad Patterns
 
 - Date: `2021-11-12`
 - Author: `JustAnotherPenTester`
