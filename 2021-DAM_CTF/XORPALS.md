@@ -1,4 +1,4 @@
-# CHALLENGE NAME
+# Xor Pals
 
 - Date: `2021-11-10`
 - Author: `JustAnotherPenTester`
