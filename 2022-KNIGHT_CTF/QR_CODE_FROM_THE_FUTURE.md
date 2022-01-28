@@ -1,4 +1,4 @@
-# DROID FLAG
+# QR Code from the Future
 
 - Date: `2022-01-24`
 - Author: `AtomicNicos`
