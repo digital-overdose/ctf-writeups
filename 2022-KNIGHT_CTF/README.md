@@ -24,3 +24,4 @@ Programming:
 Steganography:
 
 - [QR Code from the Future, 100 points, AtomicNicos](2022-KNIGHT_CTF/QR_CODE_FROM_THE_FUTURE.md)
+- [Follow, sociallyencrypted](2022-KNIGHT_CTF/FOLLOW.md)
